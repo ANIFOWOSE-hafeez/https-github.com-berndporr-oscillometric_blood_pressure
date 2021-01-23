@@ -20,7 +20,7 @@ A demonstration of the application can be found on YouTube.
 
 ## Documentation
 
-The Doxygen documentation is available on GitHub pages: https://oscillometric_blood_pressure.github.io/obp/
+The Doxygen documentation is available on GitHub pages: https://berndporr.github.io/oscillometric_blood_pressure/
 
 Alternatively, it can be built from the configuration file in the [doxygen](https://github.com/berndporr/oscillometric_blood_pressure/tree/master/doc/doxygen) folder.
 
@@ -58,8 +58,8 @@ Then install as usual:
     sudo apt-get install iir1-dev
 
 ## Building the Projcet
-The project is set-up as a cmake project (details are defined in [CMakeList.txt](https://github.com/berndporr/obp/tree/master/c%2B%2B/CMakeLists.txt)). 
-Run `cmake .` from the console in the source foler ([c++](https://github.com/berndporr/obp/tree/master/c%2B%2B)) to generate the Makefile and `make` to compile. 
+The project is set-up as a cmake project (details are defined in [CMakeList.txt](https://github.com/berndporr/oscillometric_blood_pressure/tree/master/c%2B%2B/CMakeLists.txt)). 
+Run `cmake .` from the console in the source foler ([c++](https://github.com/berndporr/oscillometric_blood_pressure/tree/master/c%2B%2B)) to generate the Makefile and `make` to compile. 
 Run `ctest` to run the test.
 
 
