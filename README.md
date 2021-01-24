@@ -77,3 +77,6 @@ So please go ahead and modify/extend it.
 # Credits
 The first C++ setup of this project is based on a data aquisiton project by Bernd Porr, which can be found [here](https://github.com/berndporr/psth-vep).  This was initially developed by Tobi Delbrücks 
 (http://[http://www.ini.uzh.ch/~tobi/friend/](http://www.ini.uzh.ch/~tobi/friend/)). 
+
+# Citation
+[![DOI](https://zenodo.org/badge/332207032.svg)](https://zenodo.org/badge/latestdoi/332207032)
