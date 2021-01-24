@@ -89,7 +89,7 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <div class="contents">
 <div class="textblock"><p>The aim of this project is to test the reliability of automatic oscillometric blood pressure measurements by implementing a real-time application in C++. The application automatically measures the user's pulse and blood pressure by using a manual blood pressure cuff equipped with a pressure sensor that is connected to a <a href="http://www.linux-usb-daq.co.uk/prod2_duxsigma/">USB-DUX-SIGMA</a> converter, connected to a Linux computer.</p>
 <p align="center"></p>
-<p><object type="image/svg+xml" data="doc/latex/figures/hw_overview.svg" style="pointer-events: none;" width="80%">obp hardware overview.</object> <br  />
+<p><object type="image/svg+xml" data="hw_overview.svg" style="pointer-events: none;" width="80%">obp hardware overview.</object> <br  />
  </p>
 <p>If there is no USB-DUX devide connected to the computer, the application will not start up. If the USBDUX-D device is used, a warning will be written into the programs log file, but the application will still run. The USBDUX-D device has only 12-bit instead of 24, like the SIGMA device, which is not enough for the blood pressure detection to work.</p>
 <h1><a class="anchor" id="autotoc_md1"></a>
@@ -98,8 +98,8 @@ Demonstration</h1>
 <p><a href="https://youtu.be/3zEBVUrJrbY"><img src="https://img.youtube.com/vi/3zEBVUrJrbY/sddefault.jpg" alt="obp hardware overview." class="inline"/>  </a> </p>
 <h1><a class="anchor" id="autotoc_md2"></a>
 Documentation</h1>
-<p>The Doxygen documentation is available on GitHub pages: <a href="https://berndporr.github.io/oscillometric_blood_pressure/">https://berndporr.github.io/oscillometric_blood_pressure/</a></p>
-<p>Alternatively, it can be built from the configuration file in the <a href="https://github.com/berndporr/oscillometric_blood_pressure/tree/master/doc/doxygen">doxygen</a> folder.</p>
+<p>The Doxygen generated documentation is available on the GitHub pages: <a href="https://berndporr.github.io/oscillometric_blood_pressure/">https://berndporr.github.io/oscillometric_blood_pressure/</a></p>
+<p>Alternatively, it can be built by running <code>doxygen</code>.</p>
 <h1><a class="anchor" id="autotoc_md3"></a>
 Installation (C++)</h1>
 <p>The following instructions concern the code located in the <a href="https://github.com/berndporr/oscillometric_blood_pressure/tree/master/c%2B%2B">C++ folder</a>.</p>
