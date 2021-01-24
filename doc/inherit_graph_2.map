@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_cpp_thread.html" title=" " alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$class_processing.html" title="The Processing class handles the data acquisition and processing." alt="" coords="145,31,237,57"/>
+<area shape="rect" id="node3" href="$class_i_subject.html" title="The ISubject Class provides the functionality to register observers and send events to an observing o..." alt="" coords="14,56,89,83"/>
+</map>

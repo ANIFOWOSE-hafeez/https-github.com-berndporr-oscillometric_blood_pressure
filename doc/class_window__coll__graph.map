@@ -1,0 +1,5 @@
+<map id="Window" name="Window">
+<area shape="rect" id="node1" title="The Window class is the implementation of the graphical user interface (GUI)." alt="" coords="80,204,199,311"/>
+<area shape="rect" id="node2" href="$class_q_main_window.html" title=" " alt="" coords="5,42,121,119"/>
+<area shape="rect" id="node3" href="$class_i_observer.html" title="The IObserver Class provides the functionality to receive events from an observable object." alt="" coords="145,5,288,156"/>
+</map>

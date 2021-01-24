@@ -1,0 +1,5 @@
+<map id="QDialog" name="QDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="105,5,180,83"/>
+<area shape="rect" id="node2" href="$class_info_dialog.html" title="The InfoDialog Class displays a pup&#45;up window with some information." alt="" coords="5,189,120,267"/>
+<area shape="rect" id="node3" href="$class_settings_dialog.html" title="The settings dialog displays configuration values." alt="" coords="144,131,304,325"/>
+</map>

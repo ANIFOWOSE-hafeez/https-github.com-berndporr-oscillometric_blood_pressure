@@ -1,0 +1,5 @@
+<map id="Processing" name="Processing">
+<area shape="rect" id="node1" title="The Processing class handles the data acquisition and processing." alt="" coords="73,233,239,516"/>
+<area shape="rect" id="node2" href="$class_cpp_thread.html" title=" " alt="" coords="5,27,133,163"/>
+<area shape="rect" id="node3" href="$class_i_subject.html" title="The ISubject Class provides the functionality to register observers and send events to an observing o..." alt="" coords="158,5,330,185"/>
+</map>

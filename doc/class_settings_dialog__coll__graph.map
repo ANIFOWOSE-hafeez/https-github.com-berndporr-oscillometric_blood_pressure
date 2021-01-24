@@ -1,0 +1,4 @@
+<map id="SettingsDialog" name="SettingsDialog">
+<area shape="rect" id="node1" title="The settings dialog displays configuration values." alt="" coords="5,131,165,325"/>
+<area shape="rect" id="node2" href="$class_q_dialog.html" title=" " alt="" coords="48,5,123,83"/>
+</map>

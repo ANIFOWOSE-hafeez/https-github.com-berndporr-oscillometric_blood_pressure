@@ -1,0 +1,4 @@
+<map id="ISubject" name="ISubject">
+<area shape="rect" id="node1" title="The ISubject Class provides the functionality to register observers and send events to an observing o..." alt="" coords="5,5,177,185"/>
+<area shape="rect" id="node2" href="$class_processing.html" title="The Processing class handles the data acquisition and processing." alt="" coords="8,233,175,516"/>
+</map>
