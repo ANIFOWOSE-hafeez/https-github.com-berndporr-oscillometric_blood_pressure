@@ -1,4 +1,4 @@
-# Oscillometric Blood Pressure Measurement
+# Realtime Oscillometric Blood Pressure Measurement implemented in C++
 
 The aim of this project is to  test the reliability of automatic oscillometric blood pressure measurements by implementing a real-time application in C++. The application automatically measures the user's pulse and blood pressure by using a manual blood pressure cuff equipped with a pressure sensor that is connected to a [USB-DUX-SIGMA](http://www.linux-usb-daq.co.uk/prod2_duxsigma/) converter, connected to a Linux computer.
 
@@ -6,7 +6,7 @@ The aim of this project is to  test the reliability of automatic oscillometric b
   <img src="hw_overview.svg" alt="obp hardware overview." width="80%">     
 </p>
 
-If there is no USB-DUX devide connected to the computer, the application will not start up. If the USBDUX-D device is used, a warning will be written into the programs log file, but the application will still run. The USBDUX-D device has only 12-bit instead of 24, like the SIGMA device, which is not enough for the blood pressure detection to work.
+If there is no USB-DUX device connected to the computer, the application will not start up. If the USBDUX-D device is used, a warning will be written into the programs log file, but the application will still run. The USBDUX-D device has only 12-bit instead of 24, like the SIGMA device, which is not enough for the blood pressure detection to work.
 
 ## Demonstration
 
